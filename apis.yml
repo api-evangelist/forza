@@ -1,0 +1,32 @@
+aid: forza
+name: Forza
+description: "Show random image of car from Forza"
+url: https://docs.forza-api.tk
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Forza
+    description: "Show random image of car from Forza"
+    humanURL: https://docs.forza-api.tk
+    baseURL: https://docs.forza-api.tk
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://docs.forza-api.tk
+common:
+  - type: Website
+    url: https://docs.forza-api.tk
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
