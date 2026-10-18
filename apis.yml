@@ -41,7 +41,8 @@ apis:
     description: "Show random image of car from Forza"
     humanURL: https://docs.forza-api.tk
     baseURL: https://docs.forza-api.tk
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
